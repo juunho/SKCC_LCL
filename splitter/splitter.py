@@ -75,7 +75,7 @@ SK텔레콤 이동전화를 해지 한 경우
 부 칙 (2018.10.18 시행)
 제1조[시행일] 이 약관은 2018년 10월 18일부터 시행합니다."""
 
-
+corpus = corpus.split("\n")
 
 from semantic_router.splitters import RollingWindowSplitter
 from semantic_router.encoders import FastEmbedEncoder
@@ -84,8 +84,8 @@ encoder = FastEmbedEncoder(name="intfloat/multilingual-e5-large")
 
 splitter = RollingWindowSplitter(
         encoder=encoder,
-        window_size=500,  # Compares each element with the previous one
-        min_split_tokens=700,
+        window_size=1,  # Compares each element with the previous one
+        min_split_tokens=10,
         max_split_tokens=1000,
         plot_splits=True,
     )
