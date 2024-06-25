@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: bonito
+Version: 0.0.2
+Summary: A lightweight wrapper for the Bonito model.
+Home-page: https://github.com/BatsResearch/bonito
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.9
+License-File: LICENSE
+Requires-Dist: transformers
+Requires-Dist: datasets
+Requires-Dist: vllm
