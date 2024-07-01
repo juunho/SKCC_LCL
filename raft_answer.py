@@ -53,7 +53,7 @@ from collections import OrderedDict
 
 
 
-# client = OpenAI(api_key="sk-proj-cbXiyApkdizUeuRpEJFvT3BlbkFJ5OUxLvS9TbjRNiEmWKYK")
+# client = OpenAI(api_key="sk-")
 # # available only in version after openai==1.2.0
 # batch_input_file = client.files.create(
 #   file=open('/workspace/RAFT/answer_input3.jsonl', "rb"),
@@ -105,7 +105,7 @@ from collections import OrderedDict
 
  
 
-client = OpenAI(api_key="sk-proj-cbXiyApkdizUeuRpEJFvT3BlbkFJ5OUxLvS9TbjRNiEmWKYK")
+client = OpenAI(api_key="sk-")
 status = client.batches.retrieve("batch_fSAEzH5qKmLuiwibeG8ur8td").status
 output_file_id = client.batches.retrieve("batch_fSAEzH5qKmLuiwibeG8ur8td").output_file_id
 print(output_file_id)
