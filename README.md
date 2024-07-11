@@ -1,5 +1,5 @@
 # AutoRAG for Domain(가제)
-**사업向 sLLM Service Delivery에서 겪는 문제를 개선하기 위한 AutoRAG for Domain을 구현하였습니다.**
+**사업向 sLLM 에서 Service Delivery 시 겪는 문제를 개선하기 위한 AutoRAG for Domain을 구현하였습니다.**
 
 본 프로젝트는 SK C&C Learning Collabo Lab의 지원을 받아 진행하였습니다.
 
