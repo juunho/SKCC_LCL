@@ -39,3 +39,8 @@ Team: G.AI Engieering 1팀 배준호 매니저, 신현준 매니저, 이용택 �
 - RAFT, Bonito를 통한 Synthetic Data
 
 - RAG Evaluation
+
+
+## 상세 내용
+
+-> wiki
