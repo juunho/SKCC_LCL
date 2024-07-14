@@ -20,7 +20,7 @@ Team: G.AI Engieering 1팀 배준호 매니저, 신현준 매니저, 이용택 �
 >
 > 이는 통신과 금융 등 고유한 도메인을 가진 sLLM 사업에서 가장 큰 어려움으로 여겨지고 있습니다.
 >
-> **💡 &nbsp;본 프로젝트는 기존 RAG의 파이프라인을 개선한 'AutoRAG for Domain'를 통해 Service Delivery를 혁신하고자 합니다.**
+> **💡 &nbsp;본 프로젝트는 기존 RAG 파이프라인을 개선한 'AutoRAG for Domain'를 통해 Service Delivery를 혁신하고자 합니다.**
 
 
 
