@@ -43,4 +43,4 @@ Team: G.AI Engieering 1팀 배준호 매니저, 신현준 매니저, 이용택 �
 
 ## 상세 내용
 
--> wiki
+[wiki](https://github.com/juunho/SKCC_LCL/wiki)
