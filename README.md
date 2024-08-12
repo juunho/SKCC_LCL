@@ -24,15 +24,14 @@ Team: G.AI Engieering 1팀 배준호 매니저, 신현준 매니저, 이용택 �
 
 
 
+
 </br>
 
 ## 접근 방법
 
 <p align="center">
-  <img src="https://github.com/juunho/Completed_Projects/assets/81394769/a5b693a0-1f5f-47a0-bc6e-afd3b0b4550a" width="80%">
+  <img src="https://github.com/user-attachments/assets/aba9038a-0c90-4168-b192-8bb3937bdb28" width="100%">
 </p>
-
-</br>
 
 - sLLM을 이용한 도메인 별 데이터 전처리
 
@@ -43,4 +42,4 @@ Team: G.AI Engieering 1팀 배준호 매니저, 신현준 매니저, 이용택 �
 
 ## 상세 내용
 
-[wiki](https://github.com/juunho/SKCC_LCL/wiki)
+[Project Wiki](https://github.com/juunho/SKCC_LCL/wiki)
